@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_2/class/provider.dart';
-import 'package:flutter_application_2/screens/LoginScreen.dart';
+
 import 'package:flutter_application_2/screens/tasksScreen.dart';
 import 'package:provider/provider.dart';
 
